@@ -1,0 +1,10 @@
+/home/leon-gold/jepa/kinetics-dataset/k400_targz/train/part_1/-W53pl92itE_000242_000252.mp4,11
+/home/leon-gold/jepa/kinetics-dataset/k400_targz/train/part_1/-Vc-FxxwCSs_000122_000132.mp4,321
+/home/leon-gold/jepa/kinetics-dataset/k400_targz/train/part_1/-TItfMkZpXo_000004_000014.mp4,269
+/home/leon-gold/jepa/kinetics-dataset/k400_targz/train/part_1/-Or--D8PSWg_000035_000045.mp4,326
+/home/leon-gold/jepa/kinetics-dataset/k400_targz/train/part_1/-Y55hLkDGQA_000481_000491.mp4,295
+/home/leon-gold/jepa/kinetics-dataset/k400_targz/train/part_1/-cgcBNpM3pI_000023_000033.mp4,14
+/home/leon-gold/jepa/kinetics-dataset/k400_targz/train/part_1/-TmkTF2B9Lk_000004_000014.mp4,169
+/home/leon-gold/jepa/kinetics-dataset/k400_targz/train/part_1/-NrlD8wo6yY_000001_000011.mp4,390
+/home/leon-gold/jepa/kinetics-dataset/k400_targz/train/part_1/-cJr27dbEZo_000028_000038.mp4,203
+/home/leon-gold/jepa/kinetics-dataset/k400_targz/train/part_1/-YaXsoKLv6o_000101_000111.mp4,399
