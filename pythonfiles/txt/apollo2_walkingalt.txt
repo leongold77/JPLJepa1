@@ -1,0 +1,63 @@
+
+Collection 14 - Video order: [56, 57, 58, 59]
+Labels: [2, 2, 3, 3]
+Final prediction for video #56: Falling. Confidence: 97.03%
+Final prediction for video #57: Falling. Confidence: 98.74%
+Final prediction for video #58: Walking. Confidence: 97.51%
+Final prediction for video #59: Driving. Confidence: 80.59%
+Collection 15 - Video order: [60, 61, 62, 63]
+Labels: [3, 3, 3, 3]
+Final prediction for video #60: Walking. Confidence: 100.00%
+Final prediction for video #61: Fixing. Confidence: 97.48%
+Final prediction for video #62: Fixing. Confidence: 95.05%
+Final prediction for video #63: Walking. Confidence: 74.22%
+Collection 16 - Video order: [64, 65, 66, 67]
+Labels: [3, 3, 3, 3]
+Final prediction for video #64: Fixing. Confidence: 100.00%
+Final prediction for video #65: Walking. Confidence: 65.78%
+Final prediction for video #66: Fixing. Confidence: 100.00%
+Final prediction for video #67: Fixing. Confidence: 98.36%
+Collection 17 - Video order: [68, 69, 70, 71]
+Labels: [3, 3, 3, 3]
+Final prediction for video #68: Walking. Confidence: 99.93%
+Final prediction for video #69: Walking. Confidence: 98.97%
+Final prediction for video #70: Walking. Confidence: 79.75%
+Final prediction for video #71: Walking. Confidence: 99.70%
+Collection 18 - Video order: [72, 73, 74, 75]
+Labels: [3, 3, 3, 3]
+Final prediction for video #72: Walking. Confidence: 97.51%
+Final prediction for video #73: Walking. Confidence: 99.70%
+Final prediction for video #74: Walking. Confidence: 79.55%
+Final prediction for video #75: Walking. Confidence: 100.00%
+Collection 19 - Video order: [76, 77, 78, 79]
+Labels: [3, 3, 3, 3]
+Final prediction for video #76: Fixing. Confidence: 99.99%
+Final prediction for video #77: Fixing. Confidence: 96.38%
+Final prediction for video #78: Fixing. Confidence: 89.96%
+Final prediction for video #79: Walking. Confidence: 83.86%
+Collection 20 - Video order: [80, 81, 82, 83]
+Labels: [3, 3, 3, 3]
+Final prediction for video #80: Walking. Confidence: 98.73%
+Final prediction for video #81: Walking. Confidence: 99.64%
+Final prediction for video #82: Walking. Confidence: 72.42%
+Final prediction for video #83: Walking. Confidence: 61.30%
+INFO:root:[   20] 80.159% (loss: 1.646) [mem: 9.30e+03]
+Collection 21 - Video order: [84, 85, 86, 87]
+Labels: [3, 3, 3, 3]
+Final prediction for video #84: Walking. Confidence: 100.00%
+Final prediction for video #85: Fixing. Confidence: 92.75%
+Final prediction for video #86: Walking. Confidence: 85.97%
+Final prediction for video #87: Walking. Confidence: 93.31%
+Collection 22 - Video order: [88, 89, 90, 91]
+Labels: [3, 3, 3, 3]
+Final prediction for video #88: Walking. Confidence: 99.90%
+Final prediction for video #89: Walking. Confidence: 88.09%
+Final prediction for video #90: Walking. Confidence: 99.04%
+Final prediction for video #91: Walking. Confidence: 99.79%
+Collection 23 - Video order: [92, 93, 94, 95]
+Labels: [3, 3, 3, 1]
+Final prediction for video #92: Walking. Confidence: 95.38%
+Final prediction for video #93: Walking. Confidence: 86.89%
+Final prediction for video #94: Walking. Confidence: 65.74%
+Final prediction for video #95: Walking. Confidence: 57.23%
+

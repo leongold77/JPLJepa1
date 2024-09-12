@@ -1,0 +1,410 @@
+Collection 0 - Video order: [0, 1, 2, 3]
+Labels: [1, 3, 3, 1]
+Final prediction for video #0: Driving. Confidence: 97.89%
+Final prediction for video #1: Walking. Confidence: 96.20%
+Final prediction for video #2: Crouching. Confidence: 82.99%
+Final prediction for video #3: Driving. Confidence: 99.98%
+INFO:root:[    0] 66.667% (loss: 1.926) [mem: 6.94e+03]
+Collection 1 - Video order: [4, 5, 6, 7]
+Labels: [1, 4, 0, 0]
+Final prediction for video #4: Driving. Confidence: 85.50%
+Final prediction for video #5: Crouching. Confidence: 99.49%
+Final prediction for video #6: Driving. Confidence: 97.39%
+Final prediction for video #7: Walking. Confidence: 99.83%
+Collection 2 - Video order: [8, 9, 10, 11]
+Labels: [3, 2, 0, 0]
+Final prediction for video #8: Walking. Confidence: 89.87%
+Final prediction for video #9: Crouching. Confidence: 96.10%
+Final prediction for video #10: Fixing. Confidence: 100.00%
+Final prediction for video #11: Fixing. Confidence: 100.00%
+Collection 3 - Video order: [12, 13, 14, 15]
+Labels: [0, 1, 0, 0]
+Final prediction for video #12: Fixing. Confidence: 100.00%
+Final prediction for video #13: Driving. Confidence: 100.00%
+Final prediction for video #14: Fixing. Confidence: 99.91%
+Final prediction for video #15: Fixing. Confidence: 93.87%
+Collection 4 - Video order: [16, 17, 18, 19]
+Labels: [0, 1, 3, 4]
+Final prediction for video #16: Fixing. Confidence: 99.98%
+Final prediction for video #17: Driving. Confidence: 97.15%
+Final prediction for video #18: Walking. Confidence: 99.27%
+Final prediction for video #19: Crouching. Confidence: 97.35%
+Collection 5 - Video order: [20, 21, 22, 23]
+Labels: [0, 1, 0, 1]
+Final prediction for video #20: Driving. Confidence: 99.98%
+Final prediction for video #21: Driving. Confidence: 92.48%
+Final prediction for video #22: Fixing. Confidence: 100.00%
+Final prediction for video #23: Driving. Confidence: 100.00%
+Collection 6 - Video order: [24, 25, 26, 27]
+Labels: [3, 4, 0, 0]
+Final prediction for video #24: Walking. Confidence: 75.94%
+Final prediction for video #25: Crouching. Confidence: 100.00%
+Final prediction for video #26: Fixing. Confidence: 100.00%
+Final prediction for video #27: Fixing. Confidence: 99.99%
+Collection 7 - Video order: [28, 29, 30, 31]
+Labels: [0, 1, 0, 1]
+Final prediction for video #28: Fixing. Confidence: 100.00%
+Final prediction for video #29: Driving. Confidence: 99.98%
+Final prediction for video #30: Fixing. Confidence: 100.00%
+Final prediction for video #31: Driving. Confidence: 93.00%
+Collection 8 - Video order: [32, 33, 34, 35]
+Labels: [1, 0, 1, 0]
+Final prediction for video #32: Driving. Confidence: 95.80%
+Final prediction for video #33: Fixing. Confidence: 95.71%
+Final prediction for video #34: Driving. Confidence: 83.54%
+Final prediction for video #35: Fixing. Confidence: 98.78%
+Collection 9 - Video order: [36, 37, 38, 39]
+Labels: [0, 1, 0, 0]
+Final prediction for video #36: Fixing. Confidence: 100.00%
+Final prediction for video #37: Driving. Confidence: 100.00%
+Final prediction for video #38: Crouching. Confidence: 89.10%
+Final prediction for video #39: Driving. Confidence: 91.61%
+Collection 10 - Video order: [40, 41, 42, 43]
+Labels: [0, 1, 0, 0]
+Final prediction for video #40: Fixing. Confidence: 96.09%
+Final prediction for video #41: Driving. Confidence: 99.79%
+Final prediction for video #42: Fixing. Confidence: 100.00%
+Final prediction for video #43: Fixing. Confidence: 100.00%
+Collection 11 - Video order: [44, 45, 46, 47]
+Labels: [1, 0, 0, 1]
+Final prediction for video #44: Driving. Confidence: 90.26%
+Final prediction for video #45: Fixing. Confidence: 100.00%
+Final prediction for video #46: Fixing. Confidence: 100.00%
+Final prediction for video #47: Driving. Confidence: 84.80%
+Collection 12 - Video order: [48, 49, 50, 51]
+Labels: [0, 0, 0, 0]
+Final prediction for video #48: Fixing. Confidence: 95.92%
+Final prediction for video #49: Fixing. Confidence: 99.82%
+Final prediction for video #50: Fixing. Confidence: 99.99%
+Final prediction for video #51: Driving. Confidence: 94.30%
+Collection 13 - Video order: [52, 53, 54, 55]
+Labels: [1, 4, 0, 0]
+Final prediction for video #52: Driving. Confidence: 94.61%
+Final prediction for video #53: Crouching. Confidence: 99.93%
+Final prediction for video #54: Fixing. Confidence: 91.55%
+Final prediction for video #55: Fixing. Confidence: 100.00%
+Collection 14 - Video order: [56, 57, 58, 59]
+Labels: [1, 0, 1, 0]
+Final prediction for video #56: Driving. Confidence: 99.86%
+Final prediction for video #57: Fixing. Confidence: 99.54%
+Final prediction for video #58: Driving. Confidence: 100.00%
+Final prediction for video #59: Fixing. Confidence: 99.03%
+Collection 15 - Video order: [60, 61, 62, 63]
+Labels: [0, 2, 0, 1]
+Final prediction for video #60: Fixing. Confidence: 100.00%
+Final prediction for video #61: Falling. Confidence: 55.25%
+Final prediction for video #62: Fixing. Confidence: 93.80%
+Final prediction for video #63: Driving. Confidence: 88.42%
+Collection 16 - Video order: [64, 65, 66, 67]
+Labels: [3, 0, 0, 0]
+Final prediction for video #64: Fixing. Confidence: 92.89%
+Final prediction for video #65: Fixing. Confidence: 98.64%
+Final prediction for video #66: Fixing. Confidence: 96.63%
+Final prediction for video #67: Fixing. Confidence: 83.23%
+Collection 17 - Video order: [68, 69, 70, 71]
+Labels: [1, 4, 0, 3]
+Final prediction for video #68: Driving. Confidence: 88.83%
+Final prediction for video #69: Crouching. Confidence: 99.75%
+Final prediction for video #70: Driving. Confidence: 76.13%
+Final prediction for video #71: Fixing. Confidence: 96.14%
+Collection 18 - Video order: [72, 73, 74, 75]
+Labels: [0, 0, 1, 1]
+Final prediction for video #72: Fixing. Confidence: 97.53%
+Final prediction for video #73: Walking. Confidence: 95.33%
+Final prediction for video #74: Crouching. Confidence: 78.31%
+Final prediction for video #75: Driving. Confidence: 89.45%
+Collection 19 - Video order: [76, 77, 78, 79]
+Labels: [1, 3, 0, 3]
+Final prediction for video #76: Driving. Confidence: 99.98%
+Final prediction for video #77: Fixing. Confidence: 93.89%
+Final prediction for video #78: Fixing. Confidence: 99.85%
+Final prediction for video #79: Crouching. Confidence: 82.94%
+Collection 20 - Video order: [80, 81, 82, 83]
+Labels: [1, 3, 1, 1]
+Final prediction for video #80: Driving. Confidence: 99.73%
+Final prediction for video #81: Walking. Confidence: 95.90%
+Final prediction for video #82: Driving. Confidence: 84.52%
+Final prediction for video #83: Driving. Confidence: 94.49%
+INFO:root:[   20] 78.175% (loss: 0.078) [mem: 9.30e+03]
+Collection 21 - Video order: [84, 85, 86, 87]
+Labels: [2, 1, 0, 0]
+Final prediction for video #84: Falling. Confidence: 99.06%
+Final prediction for video #85: Crouching. Confidence: 92.07%
+Final prediction for video #86: Driving. Confidence: 96.22%
+Final prediction for video #87: Fixing. Confidence: 100.00%
+Collection 22 - Video order: [88, 89, 90, 91]
+Labels: [0, 0, 0, 0]
+Final prediction for video #88: Walking. Confidence: 97.59%
+Final prediction for video #89: Fixing. Confidence: 99.94%
+Final prediction for video #90: Fixing. Confidence: 99.98%
+Final prediction for video #91: Driving. Confidence: 95.57%
+Collection 23 - Video order: [92, 93, 94, 95]
+Labels: [0, 0, 1, 0]
+Final prediction for video #92: Fixing. Confidence: 98.96%
+Final prediction for video #93: Fixing. Confidence: 99.21%
+Final prediction for video #94: Driving. Confidence: 93.70%
+Final prediction for video #95: Fixing. Confidence: 99.82%
+Collection 24 - Video order: [96, 97, 98, 99]
+Labels: [0, 0, 1, 1]
+Final prediction for video #96: Fixing. Confidence: 100.00%
+Final prediction for video #97: Fixing. Confidence: 99.08%
+Final prediction for video #98: Driving. Confidence: 92.61%
+Final prediction for video #99: Driving. Confidence: 99.47%
+Collection 25 - Video order: [100, 101, 102, 103]
+Labels: [1, 0, 0, 0]
+Final prediction for video #100: Driving. Confidence: 85.71%
+Final prediction for video #101: Fixing. Confidence: 99.94%
+Final prediction for video #102: Fixing. Confidence: 77.33%
+Final prediction for video #103: Fixing. Confidence: 99.94%
+Collection 26 - Video order: [104, 105, 106, 107]
+Labels: [2, 0, 0, 0]
+Final prediction for video #104: Falling. Confidence: 83.32%
+Final prediction for video #105: Fixing. Confidence: 96.28%
+Final prediction for video #106: Fixing. Confidence: 95.46%
+Final prediction for video #107: Fixing. Confidence: 100.00%
+Collection 27 - Video order: [108, 109, 110, 111]
+Labels: [0, 0, 0, 0]
+Final prediction for video #108: Fixing. Confidence: 99.75%
+Final prediction for video #109: Fixing. Confidence: 96.69%
+Final prediction for video #110: Fixing. Confidence: 100.00%
+Final prediction for video #111: Fixing. Confidence: 100.00%
+Collection 28 - Video order: [112, 113, 114, 115]
+Labels: [3, 1, 1, 0]
+Final prediction for video #112: Walking. Confidence: 98.81%
+Final prediction for video #113: Driving. Confidence: 93.54%
+Final prediction for video #114: Driving. Confidence: 94.42%
+Final prediction for video #115: Fixing. Confidence: 99.86%
+Collection 29 - Video order: [116, 117, 118, 119]
+Labels: [2, 0, 0, 0]
+Final prediction for video #116: Falling. Confidence: 93.64%
+Final prediction for video #117: Driving. Confidence: 64.89%
+Final prediction for video #118: Fixing. Confidence: 99.99%
+Final prediction for video #119: Fixing. Confidence: 100.00%
+Collection 30 - Video order: [120, 121, 122, 123]
+Labels: [1, 0, 0, 0]
+Final prediction for video #120: Driving. Confidence: 77.43%
+Final prediction for video #121: Driving. Confidence: 59.45%
+Final prediction for video #122: Fixing. Confidence: 100.00%
+Final prediction for video #123: Fixing. Confidence: 94.53%
+Collection 31 - Video order: [124, 125, 126, 127]
+Labels: [1, 0, 0, 0]
+Final prediction for video #124: Driving. Confidence: 99.16%
+Final prediction for video #125: Fixing. Confidence: 91.42%
+Final prediction for video #126: Crouching. Confidence: 71.38%
+Final prediction for video #127: Fixing. Confidence: 98.75%
+Collection 32 - Video order: [128, 129, 130, 131]
+Labels: [3, 1, 3, 4]
+Final prediction for video #128: Walking. Confidence: 99.85%
+Final prediction for video #129: Driving. Confidence: 90.18%
+Final prediction for video #130: Walking. Confidence: 99.98%
+Final prediction for video #131: Crouching. Confidence: 86.75%
+Collection 33 - Video order: [132, 133, 134, 135]
+Labels: [1, 3, 0, 0]
+Final prediction for video #132: Driving. Confidence: 97.91%
+Final prediction for video #133: Walking. Confidence: 64.29%
+Final prediction for video #134: Fixing. Confidence: 99.76%
+Final prediction for video #135: Fixing. Confidence: 87.12%
+Collection 34 - Video order: [136, 137, 138, 139]
+Labels: [0, 1, 1, 4]
+Final prediction for video #136: Fixing. Confidence: 99.99%
+Final prediction for video #137: Driving. Confidence: 99.94%
+Final prediction for video #138: Driving. Confidence: 80.46%
+Final prediction for video #139: Crouching. Confidence: 99.92%
+Collection 35 - Video order: [140, 141, 142, 143]
+Labels: [1, 1, 0, 2]
+Final prediction for video #140: Driving. Confidence: 100.00%
+Final prediction for video #141: Driving. Confidence: 99.93%
+Final prediction for video #142: Fixing. Confidence: 97.90%
+Final prediction for video #143: Falling. Confidence: 62.65%
+Collection 36 - Video order: [144, 145, 146, 147]
+Labels: [0, 0, 0, 0]
+Final prediction for video #144: Fixing. Confidence: 99.63%
+Final prediction for video #145: Fixing. Confidence: 96.54%
+Final prediction for video #146: Fixing. Confidence: 83.21%
+Final prediction for video #147: Fixing. Confidence: 90.91%
+Collection 37 - Video order: [148, 149, 150, 151]
+Labels: [0, 1, 3, 3]
+Final prediction for video #148: Crouching. Confidence: 93.17%
+Final prediction for video #149: Driving. Confidence: 99.57%
+Final prediction for video #150: Walking. Confidence: 86.29%
+Final prediction for video #151: Walking. Confidence: 99.19%
+Collection 38 - Video order: [152, 153, 154, 155]
+Labels: [0, 0, 1, 1]
+Final prediction for video #152: Fixing. Confidence: 84.50%
+Final prediction for video #153: Fixing. Confidence: 99.28%
+Final prediction for video #154: Driving. Confidence: 97.19%
+Final prediction for video #155: Walking. Confidence: 81.56%
+Collection 39 - Video order: [156, 157, 158, 159]
+Labels: [0, 0, 1, 1]
+Final prediction for video #156: Fixing. Confidence: 100.00%
+Final prediction for video #157: Fixing. Confidence: 98.06%
+Final prediction for video #158: Driving. Confidence: 99.28%
+Final prediction for video #159: Driving. Confidence: 99.98%
+Collection 40 - Video order: [160, 161, 162, 163]
+Labels: [0, 1, 2, 0]
+Final prediction for video #160: Fixing. Confidence: 100.00%
+Final prediction for video #161: Driving. Confidence: 90.64%
+Final prediction for video #162: Falling. Confidence: 84.33%
+Final prediction for video #163: Fixing. Confidence: 97.72%
+INFO:root:[   40] 80.081% (loss: 0.082) [mem: 9.30e+03]
+Collection 41 - Video order: [164, 165, 166, 167]
+Labels: [1, 0, 0, 3]
+Final prediction for video #164: Driving. Confidence: 81.14%
+Final prediction for video #165: Fixing. Confidence: 90.93%
+Final prediction for video #166: Fixing. Confidence: 71.33%
+Final prediction for video #167: Fixing. Confidence: 98.98%
+Collection 42 - Video order: [168, 169, 170, 171]
+Labels: [0, 1, 0, 0]
+Final prediction for video #168: Fixing. Confidence: 77.29%
+Final prediction for video #169: Driving. Confidence: 93.75%
+Final prediction for video #170: Driving. Confidence: 94.69%
+Final prediction for video #171: Fixing. Confidence: 100.00%
+Collection 43 - Video order: [172, 173, 174, 175]
+Labels: [1, 0, 4, 0]
+Final prediction for video #172: Driving. Confidence: 100.00%
+Final prediction for video #173: Fixing. Confidence: 100.00%
+Final prediction for video #174: Crouching. Confidence: 99.78%
+Final prediction for video #175: Fixing. Confidence: 93.36%
+Collection 44 - Video order: [176, 177, 178, 179]
+Labels: [0, 0, 1, 3]
+Final prediction for video #176: Fixing. Confidence: 100.00%
+Final prediction for video #177: Fixing. Confidence: 99.56%
+Final prediction for video #178: Driving. Confidence: 85.17%
+Final prediction for video #179: Walking. Confidence: 99.53%
+Collection 45 - Video order: [180, 181, 182, 183]
+Labels: [0, 1, 1, 1]
+Final prediction for video #180: Fixing. Confidence: 100.00%
+Final prediction for video #181: Driving. Confidence: 99.95%
+Final prediction for video #182: Driving. Confidence: 100.00%
+Final prediction for video #183: Walking. Confidence: 99.99%
+Collection 46 - Video order: [184, 185, 186, 187]
+Labels: [0, 0, 1, 0]
+Final prediction for video #184: Fixing. Confidence: 99.98%
+Final prediction for video #185: Fixing. Confidence: 99.16%
+Final prediction for video #186: Driving. Confidence: 99.74%
+Final prediction for video #187: Walking. Confidence: 99.45%
+Collection 47 - Video order: [188, 189, 190, 191]
+Labels: [4, 0, 0, 0]
+Final prediction for video #188: Fixing. Confidence: 99.76%
+Final prediction for video #189: Fixing. Confidence: 100.00%
+Final prediction for video #190: Crouching. Confidence: 98.62%
+Final prediction for video #191: Fixing. Confidence: 99.99%
+Collection 48 - Video order: [192, 193, 194, 195]
+Labels: [0, 0, 1, 1]
+Final prediction for video #192: Fixing. Confidence: 97.66%
+Final prediction for video #193: Fixing. Confidence: 87.84%
+Final prediction for video #194: Driving. Confidence: 99.48%
+Final prediction for video #195: Driving. Confidence: 99.99%
+Collection 49 - Video order: [196, 197, 198, 199]
+Labels: [2, 0, 3, 1]
+Final prediction for video #196: Falling. Confidence: 79.58%
+Final prediction for video #197: Fixing. Confidence: 99.98%
+Final prediction for video #198: Fixing. Confidence: 99.82%
+Final prediction for video #199: Driving. Confidence: 97.24%
+Collection 50 - Video order: [200, 201, 202, 203]
+Labels: [2, 0, 0, 0]
+Final prediction for video #200: Falling. Confidence: 90.90%
+Final prediction for video #201: Fixing. Confidence: 99.63%
+Final prediction for video #202: Fixing. Confidence: 99.99%
+Final prediction for video #203: Crouching. Confidence: 85.06%
+Collection 51 - Video order: [204, 205, 206, 207]
+Labels: [1, 4, 1, 0]
+Final prediction for video #204: Driving. Confidence: 100.00%
+Final prediction for video #205: Crouching. Confidence: 99.93%
+Final prediction for video #206: Driving. Confidence: 90.21%
+Final prediction for video #207: Fixing. Confidence: 99.99%
+Collection 52 - Video order: [208, 209, 210, 211]
+Labels: [0, 0, 0, 0]
+Final prediction for video #208: Fixing. Confidence: 100.00%
+Final prediction for video #209: Fixing. Confidence: 99.86%
+Final prediction for video #210: Walking. Confidence: 99.06%
+Final prediction for video #211: Fixing. Confidence: 100.00%
+Collection 53 - Video order: [212, 213, 214, 215]
+Labels: [1, 0, 2, 3]
+Final prediction for video #212: Driving. Confidence: 99.70%
+Final prediction for video #213: Fixing. Confidence: 100.00%
+Final prediction for video #214: Fixing. Confidence: 97.35%
+Final prediction for video #215: Walking. Confidence: 99.67%
+Collection 54 - Video order: [216, 217, 218, 219]
+Labels: [2, 0, 1, 0]
+Final prediction for video #216: Falling. Confidence: 70.03%
+Final prediction for video #217: Fixing. Confidence: 100.00%
+Final prediction for video #218: Driving. Confidence: 100.00%
+Final prediction for video #219: Fixing. Confidence: 98.72%
+Collection 55 - Video order: [220, 221, 222, 223]
+Labels: [0, 3, 1, 0]
+Final prediction for video #220: Fixing. Confidence: 100.00%
+Final prediction for video #221: Walking. Confidence: 99.99%
+Final prediction for video #222: Driving. Confidence: 79.31%
+Final prediction for video #223: Crouching. Confidence: 50.26%
+Collection 56 - Video order: [224, 225, 226, 227]
+Labels: [0, 0, 0, 3]
+Final prediction for video #224: Fixing. Confidence: 90.73%
+Final prediction for video #225: Fixing. Confidence: 100.00%
+Final prediction for video #226: Fixing. Confidence: 94.00%
+Final prediction for video #227: Walking. Confidence: 82.40%
+Collection 57 - Video order: [228, 229, 230, 231]
+Labels: [0, 0, 3, 0]
+Final prediction for video #228: Fixing. Confidence: 91.48%
+Final prediction for video #229: Fixing. Confidence: 100.00%
+Final prediction for video #230: Walking. Confidence: 99.99%
+Final prediction for video #231: Fixing. Confidence: 98.45%
+Collection 58 - Video order: [232, 233, 234, 235]
+Labels: [0, 0, 0, 0]
+Final prediction for video #232: Fixing. Confidence: 89.35%
+Final prediction for video #233: Driving. Confidence: 99.98%
+Final prediction for video #234: Fixing. Confidence: 100.00%
+Final prediction for video #235: Fixing. Confidence: 94.96%
+Collection 59 - Video order: [236, 237, 238, 239]
+Labels: [0, 1, 0, 0]
+Final prediction for video #236: Crouching. Confidence: 74.94%
+Final prediction for video #237: Driving. Confidence: 100.00%
+Final prediction for video #238: Fixing. Confidence: 90.38%
+Final prediction for video #239: Fixing. Confidence: 99.76%
+Collection 60 - Video order: [240, 241, 242, 243]
+Labels: [0, 1, 3, 3]
+Final prediction for video #240: Fixing. Confidence: 100.00%
+Final prediction for video #241: Walking. Confidence: 100.00%
+Final prediction for video #242: Fixing. Confidence: 76.44%
+Final prediction for video #243: Walking. Confidence: 98.83%
+INFO:root:[   60] 78.962% (loss: 7.824) [mem: 9.30e+03]
+Collection 61 - Video order: [244, 245, 246, 247]
+Labels: [2, 0, 0, 0]
+Final prediction for video #244: Falling. Confidence: 84.31%
+Final prediction for video #245: Fixing. Confidence: 100.00%
+Final prediction for video #246: Fixing. Confidence: 99.99%
+Final prediction for video #247: Fixing. Confidence: 100.00%
+Collection 62 - Video order: [248, 249, 250, 251]
+Labels: [3, 0, 0, 2]
+Final prediction for video #248: Fixing. Confidence: 83.42%
+Final prediction for video #249: Crouching. Confidence: 87.26%
+Final prediction for video #250: Fixing. Confidence: 96.34%
+Final prediction for video #251: Driving. Confidence: 79.76%
+Collection 63 - Video order: [252, 253, 254, 255]
+Labels: [0, 2, 0, 0]
+Final prediction for video #252: Fixing. Confidence: 98.16%
+Final prediction for video #253: Falling. Confidence: 76.42%
+Final prediction for video #254: Fixing. Confidence: 99.20%
+Final prediction for video #255: Fixing. Confidence: 97.71%
+Collection 64 - Video order: [256, 257, 258, 259]
+Labels: [0, 2, 0, 1]
+Final prediction for video #256: Fixing. Confidence: 99.49%
+Final prediction for video #257: Crouching. Confidence: 63.13%
+Final prediction for video #258: Fixing. Confidence: 96.73%
+Final prediction for video #259: Driving. Confidence: 97.40%
+Collection 65 - Video order: [260, 261, 262, 263]
+Labels: [0, 1, 0, 3]
+Final prediction for video #260: Fixing. Confidence: 98.98%
+Final prediction for video #261: Driving. Confidence: 99.97%
+Final prediction for video #262: Crouching. Confidence: 65.47%
+Final prediction for video #263: Walking. Confidence: 79.92%
+Collection 66 - Video order: [264, 265, 266, 267]
+Labels: [0, 0, 1, 2]
+Final prediction for video #264: Fixing. Confidence: 100.00%
+Final prediction for video #265: Fixing. Confidence: 100.00%
+Final prediction for video #266: Driving. Confidence: 100.00%
+Final prediction for video #267: Driving. Confidence: 96.58%
+Collection 67 - Video order: [268]
+Labels: [3]
+Final prediction for video #268: Walking. Confidence: 99.22%
+INFO:root:[   24] train: 0.000% test: 78.676%

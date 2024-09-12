@@ -1,0 +1,114 @@
+Collection 0 - Video order: [0, 1, 2, 3]
+Labels: [0, 0, 0, 0]
+Final prediction for video #0: servicing_astropack. Confidence: 100.00%
+Final prediction for video #1: servicing_astropack. Confidence: 100.00%
+Final prediction for video #2: servicing_astropack. Confidence: 100.00%
+Final prediction for video #3: servicing_astropack. Confidence: 100.00%
+INFO:root:[    0] 100.000% (loss: 0.000) [mem: 6.95e+03]
+Collection 1 - Video order: [4, 5, 6, 7]
+Labels: [0, 0, 0, 0]
+Final prediction for video #4: servicing_astropack. Confidence: 100.00%
+Final prediction for video #5: servicing_astropack. Confidence: 100.00%
+Final prediction for video #6: servicing_astropack. Confidence: 100.00%
+Final prediction for video #7: servicing_astropack. Confidence: 100.00%
+Collection 2 - Video order: [8, 9, 10, 11]
+Labels: [0, 0, 0, 0]
+Final prediction for video #8: servicing_astropack. Confidence: 100.00%
+Final prediction for video #9: servicing_astropack. Confidence: 100.00%
+Final prediction for video #10: servicing_astropack. Confidence: 100.00%
+Final prediction for video #11: servicing_astropack. Confidence: 100.00%
+Collection 3 - Video order: [12, 13, 14, 15]
+Labels: [0, 0, 0, 0]
+Final prediction for video #12: servicing_astropack. Confidence: 100.00%
+Final prediction for video #13: servicing_astropack. Confidence: 100.00%
+Final prediction for video #14: servicing_astropack. Confidence: 100.00%
+Final prediction for video #15: servicing_astropack. Confidence: 100.00%
+Collection 4 - Video order: [16, 17, 18, 19]
+Labels: [0, 0, 0, 0]
+Final prediction for video #16: servicing_astropack. Confidence: 100.00%
+Final prediction for video #17: servicing_astropack. Confidence: 100.00%
+Final prediction for video #18: servicing_astropack. Confidence: 100.00%
+Final prediction for video #19: servicing_astropack. Confidence: 100.00%
+Collection 5 - Video order: [20, 21, 22, 23]
+Labels: [0, 0, 0, 0]
+Final prediction for video #20: servicing_astropack. Confidence: 100.00%
+Final prediction for video #21: servicing_astropack. Confidence: 100.00%
+Final prediction for video #22: servicing_astropack. Confidence: 100.00%
+Final prediction for video #23: servicing_astropack. Confidence: 100.00%
+Collection 6 - Video order: [24, 25, 26, 27]
+Labels: [0, 0, 0, 1]
+Final prediction for video #24: servicing_astropack. Confidence: 100.00%
+Final prediction for video #25: servicing_astropack. Confidence: 100.00%
+Final prediction for video #26: servicing_astropack. Confidence: 100.00%
+Final prediction for video #27: jumping. Confidence: 100.00%
+Collection 7 - Video order: [28, 29, 30, 31]
+Labels: [1, 1, 1, 1]
+Final prediction for video #28: driving. Confidence: 100.00%
+Final prediction for video #29: jumping. Confidence: 100.00%
+Final prediction for video #30: jumping. Confidence: 99.98%
+Final prediction for video #31: jumping. Confidence: 100.00%
+Collection 8 - Video order: [32, 33, 34, 35]
+Labels: [1, 1, 1, 1]
+Final prediction for video #32: driving. Confidence: 99.91%
+Final prediction for video #33: jumping. Confidence: 100.00%
+Final prediction for video #34: driving. Confidence: 100.00%
+Final prediction for video #35: jumping. Confidence: 100.00%
+Collection 9 - Video order: [36, 37, 38, 39]
+Labels: [1, 1, 1, 1]
+Final prediction for video #36: jumping. Confidence: 100.00%
+Final prediction for video #37: driving. Confidence: 99.91%
+Final prediction for video #38: jumping. Confidence: 100.00%
+Final prediction for video #39: jumping. Confidence: 100.00%
+Collection 10 - Video order: [40, 41, 42, 43]
+Labels: [1, 1, 1, 1]
+Final prediction for video #40: driving. Confidence: 100.00%
+Final prediction for video #41: jumping. Confidence: 98.76%
+Final prediction for video #42: driving. Confidence: 100.00%
+Final prediction for video #43: jumping. Confidence: 100.00%
+Collection 11 - Video order: [44, 45, 46, 47]
+Labels: [1, 1, 1, 1]
+Final prediction for video #44: jumping. Confidence: 100.00%
+Final prediction for video #45: driving. Confidence: 100.00%
+Final prediction for video #46: driving. Confidence: 100.00%
+Final prediction for video #47: driving. Confidence: 99.99%
+Collection 12 - Video order: [48, 49, 50, 51]
+Labels: [1, 1, 1, 1]
+Final prediction for video #48: jumping. Confidence: 100.00%
+Final prediction for video #49: jumping. Confidence: 99.02%
+Final prediction for video #50: jumping. Confidence: 100.00%
+Final prediction for video #51: driving. Confidence: 100.00%
+Collection 13 - Video order: [52, 53, 54, 55]
+Labels: [1, 1, 1, 1]
+Final prediction for video #52: falling. Confidence: 100.00%
+Final prediction for video #53: jumping. Confidence: 100.00%
+Final prediction for video #54: jumping. Confidence: 100.00%
+Final prediction for video #55: driving. Confidence: 99.64%
+Collection 14 - Video order: [56, 57, 58, 59]
+Labels: [1, 2, 2, 2]
+Final prediction for video #56: jumping. Confidence: 100.00%
+Final prediction for video #57: falling. Confidence: 100.00%
+Final prediction for video #58: falling. Confidence: 85.44%
+Final prediction for video #59: falling. Confidence: 99.99%
+Collection 15 - Video order: [60, 61, 62, 63]
+Labels: [2, 3, 3, 3]
+Final prediction for video #60: falling. Confidence: 86.80%
+Final prediction for video #61: servicing_astropack. Confidence: 100.00%
+Final prediction for video #62: jumping. Confidence: 95.36%
+Final prediction for video #63: jumping. Confidence: 100.00%
+Collection 16 - Video order: [64, 65, 66, 67]
+Labels: [4, 4, 4, 4]
+Final prediction for video #64: crouching. Confidence: 97.54%
+Final prediction for video #65: crouching. Confidence: 92.59%
+Final prediction for video #66: servicing_astropack. Confidence: 99.90%
+Final prediction for video #67: crouching. Confidence: 88.95%
+Collection 17 - Video order: [68, 69, 70, 71]
+Labels: [4, 4, 4, 4]
+Final prediction for video #68: crouching. Confidence: 99.96%
+Final prediction for video #69: crouching. Confidence: 99.99%
+Final prediction for video #70: falling. Confidence: 79.41%
+Final prediction for video #71: crouching. Confidence: 94.55%
+Collection 18 - Video order: [72, 73]
+Labels: [4, 4]
+Final prediction for video #72: crouching. Confidence: 100.00%
+Final prediction for video #73: crouching. Confidence: 99.89%
+INFO:root:[   13] train: 50.000% test: 68.860%

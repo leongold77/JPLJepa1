@@ -1,0 +1,51 @@
+INFO:root:Epoch 4
+Collection 0 - Video order: [0]
+Labels: [2]
+  Video index: 0 - Predicted class = Driving.  Confidence: 1.0000
+INFO:root:[	0] Top-1 Acc: 0.000%, Modal Acc: 0.000% (loss: 25.519) [mem: 1.82e+03]
+Modal Accuracy: 0.0%
+Collection 0 - Video order: [0, 1, 2, 3]
+Labels: [1, 1, 1, 1]
+  Video index: 0 - Predicted class = Driving.  Confidence: 1.0000
+  Video index: 1 - Predicted class = Walking.  Confidence: 0.9945
+  Video index: 2 - Predicted class = Driving.  Confidence: 1.0000
+  Video index: 3 - Predicted class = Driving.  Confidence: 1.0000
+INFO:root:[	0] Top-1 Acc: 75.000%, Modal Acc: 100.000% (loss: 0.849) [mem: 6.94e+03]
+Collection 1 - Video order: [4, 5, 6, 7]
+Labels: [1, 1, 2, 2]
+  Video index: 4 - Predicted class = Driving.  Confidence: 1.0000
+  Video index: 5 - Predicted class = Driving.  Confidence: 1.0000
+  Video index: 6 - Predicted class = Fixing.  Confidence: 1.0000
+  Video index: 7 - Predicted class = Fixing.  Confidence: 1.0000
+Collection 2 - Video order: [8, 9, 10, 11]
+Labels: [2, 2, 2, 3]
+  Video index: 8 - Predicted class = Fixing.  Confidence: 1.0000
+  Video index: 9 - Predicted class = Fixing.  Confidence: 1.0000
+  Video index: 10 - Predicted class = Fixing.  Confidence: 1.0000
+  Video index: 11 - Predicted class = Walking.  Confidence: 0.9916
+Collection 3 - Video order: [12, 13, 14, 15]
+Labels: [3, 3, 3, 3]
+  Video index: 12 - Predicted class = Falling.  Confidence: 1.0000
+  Video index: 13 - Predicted class = Falling.  Confidence: 1.0000
+  Video index: 14 - Predicted class = Falling.  Confidence: 1.0000
+  Video index: 15 - Predicted class = Walking.  Confidence: 0.7735
+Collection 4 - Video order: [16, 17, 18, 19]
+Labels: [3, 3, 3, 3]
+  Video index: 16 - Predicted class = Walking.  Confidence: 0.9981
+  Video index: 17 - Predicted class = Falling.  Confidence: 0.9946
+  Video index: 18 - Predicted class = Falling.  Confidence: 1.0000
+  Video index: 19 - Predicted class = Falling.  Confidence: 1.0000
+Collection 5 - Video order: [20, 21, 22, 23]
+Labels: [3, 0, 0, 0]
+  Video index: 20 - Predicted class = Falling.  Confidence: 1.0000
+  Video index: 21 - Predicted class = Falling.  Confidence: 1.0000
+  Video index: 22 - Predicted class = Falling.  Confidence: 1.0000
+  Video index: 23 - Predicted class = Falling.  Confidence: 1.0000
+Collection 6 - Video order: [24, 25, 26, 27]
+Labels: [0, 0, 0, 0]
+  Video index: 24 - Predicted class = Falling.  Confidence: 1.0000
+  Video index: 25 - Predicted class = Falling.  Confidence: 1.0000
+  Video index: 26 - Predicted class = Falling.  Confidence: 1.0000
+  Video index: 27 - Predicted class = Falling.  Confidence: 1.0000
+Modal Accuracy: 65.485%
+INFO:root:[	4] train: 0.000% test: 76.037%

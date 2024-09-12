@@ -1,0 +1,51 @@
+
+Collection 0 - Video order: [0, 1, 2, 3]
+Labels: [4, 4, 4, 4]
+Final prediction for video #0: Crouching. Confidence: 88.92%
+Final prediction for video #1: Crouching. Confidence: 99.99%
+Final prediction for video #2: Crouching. Confidence: 99.65%
+Final prediction for video #3: Crouching. Confidence: 93.94%
+INFO:root:[    0] 83.333% (loss: 0.193) [mem: 6.94e+03]
+Collection 1 - Video order: [4, 5, 6, 7]
+Labels: [4, 4, 2, 2]
+Final prediction for video #4: Falling. Confidence: 99.45%
+Final prediction for video #5: Crouching. Confidence: 99.90%
+Final prediction for video #6: Falling. Confidence: 100.00%
+Final prediction for video #7: Falling. Confidence: 100.00%
+Collection 2 - Video order: [8, 9, 10, 11]
+Labels: [2, 2, 2, 2]
+Final prediction for video #8: Falling. Confidence: 100.00%
+Final prediction for video #9: Falling. Confidence: 100.00%
+Final prediction for video #10: Falling. Confidence: 100.00%
+Final prediction for video #11: Walking. Confidence: 98.36%
+Collection 3 - Video order: [12, 13, 14, 15]
+Labels: [2, 2, 2, 2]
+Final prediction for video #12: Falling. Confidence: 98.35%
+Final prediction for video #13: Falling. Confidence: 94.81%
+Final prediction for video #14: Falling. Confidence: 100.00%
+Final prediction for video #15: Walking. Confidence: 92.74%
+Collection 4 - Video order: [16, 17, 18, 19]
+Labels: [3, 3, 3, 3]
+Final prediction for video #16: Walking. Confidence: 77.58%
+Final prediction for video #17: Walking. Confidence: 96.67%
+Final prediction for video #18: Falling. Confidence: 100.00%
+Final prediction for video #19: Walking. Confidence: 95.04%
+Collection 5 - Video order: [20, 21, 22, 23]
+Labels: [3, 3, 3, 3]
+Final prediction for video #20: Crouching. Confidence: 91.56%
+Final prediction for video #21: Falling. Confidence: 100.00%
+Final prediction for video #22: Walking. Confidence: 99.86%
+Final prediction for video #23: Walking. Confidence: 99.99%
+Collection 6 - Video order: [24, 25, 26, 27]
+Labels: [3, 0, 0, 0]
+Final prediction for video #24: Falling. Confidence: 100.00%
+Final prediction for video #25: Fixing. Confidence: 99.99%
+Final prediction for video #26: Fixing. Confidence: 99.97%
+Final prediction for video #27: Fixing. Confidence: 99.99%
+Collection 7 - Video order: [28, 29, 30, 31]
+Labels: [1, 1, 1, 1]
+Final prediction for video #28: Driving. Confidence: 100.00%
+Final prediction for video #29: Driving. Confidence: 100.00%
+Final prediction for video #30: Driving. Confidence: 100.00%
+Final prediction for video #31: Driving. Confidence: 100.00%
+INFO:root:[    7] train: 0.000% test: 76.042%

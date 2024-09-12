@@ -1,0 +1,446 @@
+Collection 0 - Video order: [0, 1, 2, 3]
+Labels: [78, 78, 78, 78]
+Final prediction for video #0: playing_paintball. Confidence: 99.96%
+Final prediction for video #1: faceplanting. Confidence: 63.39%
+Final prediction for video #2: checking_tires. Confidence: 58.97%
+Final prediction for video #3: riding_a_bike. Confidence: 61.61%
+INFO:root:[    0] 0.000% (loss: 12.720) [mem: 6.95e+03]
+Collection 1 - Video order: [4, 5, 6, 7]
+Labels: [78, 78, 78, 78]
+Final prediction for video #4: faceplanting. Confidence: 35.48%
+Final prediction for video #5: playing_trombone. Confidence: 91.33%
+Final prediction for video #6: playing_paintball. Confidence: 99.59%
+Final prediction for video #7: tai_chi. Confidence: 42.16%
+Collection 2 - Video order: [8, 9, 10, 11]
+Labels: [78, 78, 78, 78]
+Final prediction for video #8: playing_trombone. Confidence: 73.79%
+Final prediction for video #9: welding. Confidence: 69.61%
+Final prediction for video #10: spraying. Confidence: 41.15%
+Final prediction for video #11: digging. Confidence: 84.57%
+Collection 3 - Video order: [12, 13, 14, 15]
+Labels: [78, 78, 78, 78]
+Final prediction for video #12: disc_golfing. Confidence: 38.22%
+Final prediction for video #13: throwing_axe. Confidence: 42.28%
+Final prediction for video #14: playing_paintball. Confidence: 76.77%
+Final prediction for video #15: playing_paintball. Confidence: 99.44%
+Collection 4 - Video order: [16, 17, 18, 19]
+Labels: [78, 78, 78, 78]
+Final prediction for video #16: recording_music. Confidence: 36.30%
+Final prediction for video #17: playing_paintball. Confidence: 98.69%
+Final prediction for video #18: playing_paintball. Confidence: 99.33%
+Final prediction for video #19: welding. Confidence: 84.34%
+Collection 5 - Video order: [20, 21, 22, 23]
+Labels: [78, 78, 78, 78]
+Final prediction for video #20: playing_paintball. Confidence: 43.08%
+Final prediction for video #21: digging. Confidence: 86.92%
+Final prediction for video #22: digging. Confidence: 79.06%
+Final prediction for video #23: faceplanting. Confidence: 36.26%
+Collection 6 - Video order: [24, 25, 26, 27]
+Labels: [78, 78, 78, 78]
+Final prediction for video #24: skiing_(not_slalom_or_crosscountry). Confidence: 91.53%
+Final prediction for video #25: playing_paintball. Confidence: 73.81%
+Final prediction for video #26: playing_paintball. Confidence: 90.19%
+Final prediction for video #27: feeding_birds. Confidence: 34.40%
+Collection 7 - Video order: [28, 29, 30, 31]
+Labels: [78, 78, 78, 78]
+Final prediction for video #28: playing_paintball. Confidence: 66.51%
+Final prediction for video #29: playing_paintball. Confidence: 95.86%
+Final prediction for video #30: crying. Confidence: 51.38%
+Final prediction for video #31: playing_trombone. Confidence: 87.41%
+Collection 8 - Video order: [32, 33, 34, 35]
+Labels: [78, 167, 167, 167]
+Final prediction for video #32: hockey_stop. Confidence: 47.43%
+Final prediction for video #33: digging. Confidence: 74.81%
+Final prediction for video #34: spinning_poi. Confidence: 19.68%
+Final prediction for video #35: playing_paintball. Confidence: 77.18%
+Collection 9 - Video order: [36, 37, 38, 39]
+Labels: [167, 167, 167, 167]
+Final prediction for video #36: playing_paintball. Confidence: 73.82%
+Final prediction for video #37: extinguishing_fire. Confidence: 71.50%
+Final prediction for video #38: throwing_axe. Confidence: 73.81%
+Final prediction for video #39: chopping_wood. Confidence: 55.24%
+Collection 10 - Video order: [40, 41, 42, 43]
+Labels: [245, 245, 245, 245]
+Final prediction for video #40: playing_paintball. Confidence: 85.77%
+Final prediction for video #41: playing_paintball. Confidence: 57.73%
+Final prediction for video #42: playing_paintball. Confidence: 76.64%
+Final prediction for video #43: playing_paintball. Confidence: 87.03%
+Collection 11 - Video order: [44, 45, 46, 47]
+Labels: [245, 245, 245, 245]
+Final prediction for video #44: playing_paintball. Confidence: 99.98%
+Final prediction for video #45: blasting_sand. Confidence: 53.29%
+Final prediction for video #46: playing_paintball. Confidence: 79.71%
+Final prediction for video #47: crying. Confidence: 93.69%
+Collection 12 - Video order: [48, 49, 50, 51]
+Labels: [245, 245, 245, 245]
+Final prediction for video #48: playing_paintball. Confidence: 90.49%
+Final prediction for video #49: playing_paintball. Confidence: 79.33%
+Final prediction for video #50: playing_paintball. Confidence: 87.90%
+Final prediction for video #51: playing_trombone. Confidence: 42.41%
+Collection 13 - Video order: [52, 53, 54, 55]
+Labels: [245, 245, 245, 245]
+Final prediction for video #52: shaking_hands. Confidence: 62.00%
+Final prediction for video #53: playing_paintball. Confidence: 76.07%
+Final prediction for video #54: playing_paintball. Confidence: 61.55%
+Final prediction for video #55: playing_paintball. Confidence: 67.19%
+Collection 14 - Video order: [56, 57, 58, 59]
+Labels: [245, 245, 245, 245]
+Final prediction for video #56: playing_paintball. Confidence: 85.02%
+Final prediction for video #57: crying. Confidence: 41.12%
+Final prediction for video #58: playing_paintball. Confidence: 64.44%
+Final prediction for video #59: playing_paintball. Confidence: 80.45%
+Collection 15 - Video order: [60, 61, 62, 63]
+Labels: [245, 245, 245, 245]
+Final prediction for video #60: crying. Confidence: 83.28%
+Final prediction for video #61: playing_paintball. Confidence: 71.56%
+Final prediction for video #62: spraying. Confidence: 37.47%
+Final prediction for video #63: playing_paintball. Confidence: 95.93%
+Collection 16 - Video order: [64, 65, 66, 67]
+Labels: [245, 245, 146, 146]
+Final prediction for video #64: playing_paintball. Confidence: 88.55%
+Final prediction for video #65: skiing_slalom. Confidence: 32.79%
+Final prediction for video #66: playing_paintball. Confidence: 94.11%
+Final prediction for video #67: blasting_sand. Confidence: 85.46%
+Collection 17 - Video order: [68, 69, 70, 71]
+Labels: [146, 146, 146, 146]
+Final prediction for video #68: snowboarding. Confidence: 41.01%
+Final prediction for video #69: faceplanting. Confidence: 79.12%
+Final prediction for video #70: blasting_sand. Confidence: 41.18%
+Final prediction for video #71: playing_paintball. Confidence: 98.34%
+Collection 18 - Video order: [72, 73, 74, 75]
+Labels: [146, 146, 146, 146]
+Final prediction for video #72: skiing_(not_slalom_or_crosscountry). Confidence: 34.22%
+Final prediction for video #73: snowboarding. Confidence: 83.11%
+Final prediction for video #74: playing_paintball. Confidence: 63.83%
+Final prediction for video #75: blasting_sand. Confidence: 56.52%
+Collection 19 - Video order: [76, 77, 78, 79]
+Labels: [146, 146, 146, 286]
+Final prediction for video #76: playing_paintball. Confidence: 28.33%
+Final prediction for video #77: feeding_birds. Confidence: 74.82%
+Final prediction for video #78: faceplanting. Confidence: 61.17%
+Final prediction for video #79: playing_paintball. Confidence: 99.54%
+Collection 20 - Video order: [80, 81, 82, 83]
+Labels: [286, 286, 286, 286]
+Final prediction for video #80: pushing_car. Confidence: 80.44%
+Final prediction for video #81: riding_camel. Confidence: 46.82%
+Final prediction for video #82: side_kick. Confidence: 84.74%
+Final prediction for video #83: sweeping_floor. Confidence: 41.49%
+INFO:root:[   20] 1.984% (loss: 8.856) [mem: 9.31e+03]
+Collection 21 - Video order: [84, 85, 86, 87]
+Labels: [286, 286, 286, 286]
+Final prediction for video #84: playing_paintball. Confidence: 39.81%
+Final prediction for video #85: country_line_dancing. Confidence: 30.28%
+Final prediction for video #86: playing_paintball. Confidence: 65.75%
+Final prediction for video #87: archery. Confidence: 34.25%
+Collection 22 - Video order: [88, 89, 90, 91]
+Labels: [286, 286, 286, 286]
+Final prediction for video #88: extinguishing_fire. Confidence: 67.94%
+Final prediction for video #89: playing_paintball. Confidence: 81.76%
+Final prediction for video #90: spraying. Confidence: 40.44%
+Final prediction for video #91: tai_chi. Confidence: 19.64%
+Collection 23 - Video order: [92, 93, 94, 95]
+Labels: [286, 286, 286, 286]
+Final prediction for video #92: hopscotch. Confidence: 31.09%
+Final prediction for video #93: snowboarding. Confidence: 16.85%
+Final prediction for video #94: flying_kite. Confidence: 94.75%
+Final prediction for video #95: playing_paintball. Confidence: 68.88%
+Collection 24 - Video order: [96, 97, 98, 99]
+Labels: [286, 286, 286, 286]
+Final prediction for video #96: playing_accordion. Confidence: 93.15%
+Final prediction for video #97: extinguishing_fire. Confidence: 67.25%
+Final prediction for video #98: walking_the_dog. Confidence: 25.62%
+Final prediction for video #99: hopscotch. Confidence: 36.08%
+Collection 25 - Video order: [100, 101, 102, 103]
+Labels: [286, 286, 286, 286]
+Final prediction for video #100: throwing_axe. Confidence: 51.77%
+Final prediction for video #101: hopscotch. Confidence: 25.60%
+Final prediction for video #102: headbutting. Confidence: 59.01%
+Final prediction for video #103: tai_chi. Confidence: 53.46%
+Collection 26 - Video order: [104, 105, 106, 107]
+Labels: [286, 286, 286, 286]
+Final prediction for video #104: bee_keeping. Confidence: 11.13%
+Final prediction for video #105: digging. Confidence: 34.18%
+Final prediction for video #106: extinguishing_fire. Confidence: 47.41%
+Final prediction for video #107: drop_kicking. Confidence: 95.81%
+Collection 27 - Video order: [108, 109, 110, 111]
+Labels: [286, 286, 286, 286]
+Final prediction for video #108: bee_keeping. Confidence: 33.99%
+Final prediction for video #109: walking_the_dog. Confidence: 19.43%
+Final prediction for video #110: playing_paintball. Confidence: 94.11%
+Final prediction for video #111: throwing_axe. Confidence: 27.64%
+Collection 28 - Video order: [112, 113, 114, 115]
+Labels: [286, 234, 234, 234]
+Final prediction for video #112: extinguishing_fire. Confidence: 63.92%
+Final prediction for video #113: tobogganing. Confidence: 95.80%
+Final prediction for video #114: tobogganing. Confidence: 87.71%
+Final prediction for video #115: feeding_birds. Confidence: 64.19%
+Collection 29 - Video order: [116, 117, 118, 119]
+Labels: [234, 234, 234, 234]
+Final prediction for video #116: tobogganing. Confidence: 92.51%
+Final prediction for video #117: tobogganing. Confidence: 73.68%
+Final prediction for video #118: archery. Confidence: 27.59%
+Final prediction for video #119: tobogganing. Confidence: 77.11%
+Collection 30 - Video order: [120, 121, 122, 123]
+Labels: [234, 234, 234, 234]
+Final prediction for video #120: tobogganing. Confidence: 73.25%
+Final prediction for video #121: tobogganing. Confidence: 38.61%
+Final prediction for video #122: digging. Confidence: 34.10%
+Final prediction for video #123: tobogganing. Confidence: 58.13%
+Collection 31 - Video order: [124, 125, 126, 127]
+Labels: [234, 234, 234, 234]
+Final prediction for video #124: tobogganing. Confidence: 99.92%
+Final prediction for video #125: tobogganing. Confidence: 53.56%
+Final prediction for video #126: tobogganing. Confidence: 74.82%
+Final prediction for video #127: unloading_truck. Confidence: 48.61%
+Collection 32 - Video order: [128, 129, 130, 131]
+Labels: [234, 234, 234, 234]
+Final prediction for video #128: biking_through_snow. Confidence: 56.67%
+Final prediction for video #129: tobogganing. Confidence: 40.01%
+Final prediction for video #130: tobogganing. Confidence: 99.43%
+Final prediction for video #131: tobogganing. Confidence: 70.77%
+Collection 33 - Video order: [132, 133, 134, 135]
+Labels: [234, 234, 234, 234]
+Final prediction for video #132: driving_tractor. Confidence: 94.82%
+Final prediction for video #133: tobogganing. Confidence: 84.81%
+Final prediction for video #134: tobogganing. Confidence: 98.96%
+Final prediction for video #135: driving_tractor. Confidence: 80.75%
+Collection 34 - Video order: [136, 137, 138, 139]
+Labels: [234, 234, 234, 234]
+Final prediction for video #136: playing_bagpipes. Confidence: 30.07%
+Final prediction for video #137: driving_tractor. Confidence: 82.19%
+Final prediction for video #138: tobogganing. Confidence: 81.54%
+Final prediction for video #139: tobogganing. Confidence: 96.38%
+Collection 35 - Video order: [140, 141, 142, 143]
+Labels: [234, 234, 234, 234]
+Final prediction for video #140: tobogganing. Confidence: 62.81%
+Final prediction for video #141: tobogganing. Confidence: 99.43%
+Final prediction for video #142: tobogganing. Confidence: 56.76%
+Final prediction for video #143: capoeira. Confidence: 69.43%
+Collection 36 - Video order: [144, 145, 146, 147]
+Labels: [234, 234, 234, 234]
+Final prediction for video #144: water_sliding. Confidence: 42.69%
+Final prediction for video #145: dancing_ballet. Confidence: 78.10%
+Final prediction for video #146: unloading_truck. Confidence: 74.21%
+Final prediction for video #147: archery. Confidence: 52.19%
+Collection 37 - Video order: [148, 149, 150, 151]
+Labels: [234, 234, 234, 234]
+Final prediction for video #148: tobogganing. Confidence: 84.05%
+Final prediction for video #149: tobogganing. Confidence: 63.33%
+Final prediction for video #150: tobogganing. Confidence: 82.52%
+Final prediction for video #151: driving_tractor. Confidence: 69.72%
+Collection 38 - Video order: [152, 153, 154, 155]
+Labels: [234, 234, 234, 234]
+Final prediction for video #152: snowmobiling. Confidence: 88.15%
+Final prediction for video #153: tobogganing. Confidence: 98.89%
+Final prediction for video #154: driving_tractor. Confidence: 63.99%
+Final prediction for video #155: tobogganing. Confidence: 70.73%
+Collection 39 - Video order: [156, 157, 158, 159]
+Labels: [234, 234, 234, 234]
+Final prediction for video #156: tobogganing. Confidence: 91.06%
+Final prediction for video #157: archery. Confidence: 74.63%
+Final prediction for video #158: biking_through_snow. Confidence: 35.25%
+Final prediction for video #159: tobogganing. Confidence: 69.32%
+Collection 40 - Video order: [160, 161, 162, 163]
+Labels: [234, 234, 234, 234]
+Final prediction for video #160: snowmobiling. Confidence: 40.22%
+Final prediction for video #161: tobogganing. Confidence: 87.32%
+Final prediction for video #162: tobogganing. Confidence: 99.35%
+Final prediction for video #163: biking_through_snow. Confidence: 66.70%
+INFO:root:[   40] 4.472% (loss: 10.589) [mem: 9.31e+03]
+Collection 41 - Video order: [164, 165, 166, 167]
+Labels: [234, 234, 234, 234]
+Final prediction for video #164: tobogganing. Confidence: 98.48%
+Final prediction for video #165: crossing_river. Confidence: 60.13%
+Final prediction for video #166: driving_tractor. Confidence: 31.23%
+Final prediction for video #167: tobogganing. Confidence: 99.73%
+Collection 42 - Video order: [168, 169, 170, 171]
+Labels: [234, 234, 234, 234]
+Final prediction for video #168: pushing_wheelchair. Confidence: 51.82%
+Final prediction for video #169: driving_tractor. Confidence: 44.08%
+Final prediction for video #170: biking_through_snow. Confidence: 49.80%
+Final prediction for video #171: driving_tractor. Confidence: 90.06%
+Collection 43 - Video order: [172, 173, 174, 175]
+Labels: [234, 234, 234, 234]
+Final prediction for video #172: faceplanting. Confidence: 67.26%
+Final prediction for video #173: driving_tractor. Confidence: 92.14%
+Final prediction for video #174: tobogganing. Confidence: 78.38%
+Final prediction for video #175: driving_tractor. Confidence: 77.57%
+Collection 44 - Video order: [176, 177, 178, 179]
+Labels: [234, 234, 279, 279]
+Final prediction for video #176: biking_through_snow. Confidence: 73.00%
+Final prediction for video #177: tobogganing. Confidence: 90.01%
+Final prediction for video #178: blasting_sand. Confidence: 56.37%
+Final prediction for video #179: blasting_sand. Confidence: 68.90%
+Collection 45 - Video order: [180, 181, 182, 183]
+Labels: [279, 279, 279, 279]
+Final prediction for video #180: ice_fishing. Confidence: 70.95%
+Final prediction for video #181: blowing_glass. Confidence: 32.41%
+Final prediction for video #182: welding. Confidence: 69.19%
+Final prediction for video #183: blasting_sand. Confidence: 50.97%
+Collection 46 - Video order: [184, 185, 186, 187]
+Labels: [279, 279, 279, 279]
+Final prediction for video #184: blasting_sand. Confidence: 54.21%
+Final prediction for video #185: ice_fishing. Confidence: 54.62%
+Final prediction for video #186: welding. Confidence: 76.12%
+Final prediction for video #187: making_snowman. Confidence: 47.00%
+Collection 47 - Video order: [188, 189, 190, 191]
+Labels: [279, 279, 279, 279]
+Final prediction for video #188: peeling_apples. Confidence: 49.63%
+Final prediction for video #189: milking_cow. Confidence: 99.60%
+Final prediction for video #190: playing_paintball. Confidence: 97.92%
+Final prediction for video #191: ice_fishing. Confidence: 59.90%
+Collection 48 - Video order: [192, 193, 194, 195]
+Labels: [279, 279, 279, 279]
+Final prediction for video #192: welding. Confidence: 89.95%
+Final prediction for video #193: peeling_apples. Confidence: 32.98%
+Final prediction for video #194: playing_paintball. Confidence: 71.19%
+Final prediction for video #195: ice_fishing. Confidence: 89.08%
+Collection 49 - Video order: [196, 197, 198, 199]
+Labels: [279, 279, 279, 279]
+Final prediction for video #196: playing_paintball. Confidence: 68.19%
+Final prediction for video #197: presenting_weather_forecast. Confidence: 84.39%
+Final prediction for video #198: blowing_glass. Confidence: 81.05%
+Final prediction for video #199: cooking_on_campfire. Confidence: 71.56%
+Collection 50 - Video order: [200, 201, 202, 203]
+Labels: [279, 279, 279, 279]
+Final prediction for video #200: tobogganing. Confidence: 78.71%
+Final prediction for video #201: archery. Confidence: 64.15%
+Final prediction for video #202: playing_paintball. Confidence: 19.45%
+Final prediction for video #203: ice_fishing. Confidence: 64.05%
+Collection 51 - Video order: [204, 205, 206, 207]
+Labels: [279, 279, 279, 279]
+Final prediction for video #204: welding. Confidence: 50.20%
+Final prediction for video #205: hockey_stop. Confidence: 25.61%
+Final prediction for video #206: blasting_sand. Confidence: 35.67%
+Final prediction for video #207: playing_paintball. Confidence: 87.71%
+Collection 52 - Video order: [208, 209, 210, 211]
+Labels: [279, 279, 279, 279]
+Final prediction for video #208: feeding_birds. Confidence: 48.63%
+Final prediction for video #209: blowing_glass. Confidence: 88.65%
+Final prediction for video #210: recording_music. Confidence: 67.05%
+Final prediction for video #211: peeling_apples. Confidence: 62.97%
+Collection 53 - Video order: [212, 213, 214, 215]
+Labels: [279, 279, 279, 279]
+Final prediction for video #212: carrying_baby. Confidence: 74.81%
+Final prediction for video #213: blasting_sand. Confidence: 96.63%
+Final prediction for video #214: welding. Confidence: 43.55%
+Final prediction for video #215: blasting_sand. Confidence: 49.97%
+Collection 54 - Video order: [216, 217, 218, 219]
+Labels: [279, 279, 279, 279]
+Final prediction for video #216: skiing_(not_slalom_or_crosscountry). Confidence: 59.96%
+Final prediction for video #217: drinking_beer. Confidence: 18.91%
+Final prediction for video #218: blasting_sand. Confidence: 78.02%
+Final prediction for video #219: eating_spaghetti. Confidence: 30.12%
+Collection 55 - Video order: [220, 221, 222, 223]
+Labels: [279, 279, 279, 279]
+Final prediction for video #220: blowing_glass. Confidence: 71.98%
+Final prediction for video #221: playing_paintball. Confidence: 98.00%
+Final prediction for video #222: blasting_sand. Confidence: 70.09%
+Final prediction for video #223: milking_cow. Confidence: 52.73%
+Collection 56 - Video order: [224, 225, 226, 227]
+Labels: [279, 279, 279, 279]
+Final prediction for video #224: welding. Confidence: 46.53%
+Final prediction for video #225: blasting_sand. Confidence: 70.71%
+Final prediction for video #226: blowing_glass. Confidence: 86.47%
+Final prediction for video #227: welding. Confidence: 84.84%
+Collection 57 - Video order: [228, 229, 230, 231]
+Labels: [279, 279, 279, 279]
+Final prediction for video #228: blowing_glass. Confidence: 67.05%
+Final prediction for video #229: blowing_glass. Confidence: 62.85%
+Final prediction for video #230: riding_camel. Confidence: 18.96%
+Final prediction for video #231: blowing_glass. Confidence: 33.78%
+Collection 58 - Video order: [232, 233, 234, 235]
+Labels: [279, 279, 279, 279]
+Final prediction for video #232: playing_paintball. Confidence: 60.55%
+Final prediction for video #233: blasting_sand. Confidence: 69.03%
+Final prediction for video #234: ice_fishing. Confidence: 47.19%
+Final prediction for video #235: ice_fishing. Confidence: 69.54%
+Collection 59 - Video order: [236, 237, 238, 239]
+Labels: [279, 279, 279, 279]
+Final prediction for video #236: playing_harp. Confidence: 23.92%
+Final prediction for video #237: presenting_weather_forecast. Confidence: 67.42%
+Final prediction for video #238: welding. Confidence: 45.49%
+Final prediction for video #239: playing_paintball. Confidence: 47.09%
+Collection 60 - Video order: [240, 241, 242, 243]
+Labels: [279, 279, 279, 279]
+Final prediction for video #240: milking_cow. Confidence: 52.51%
+Final prediction for video #241: blowing_glass. Confidence: 37.60%
+Final prediction for video #242: playing_chess. Confidence: 45.97%
+Final prediction for video #243: playing_paintball. Confidence: 71.33%
+INFO:root:[   60] 4.235% (loss: 10.652) [mem: 9.31e+03]
+Collection 61 - Video order: [244, 245, 246, 247]
+Labels: [279, 279, 279, 279]
+Final prediction for video #244: peeling_apples. Confidence: 57.55%
+Final prediction for video #245: archery. Confidence: 58.36%
+Final prediction for video #246: hugging. Confidence: 18.24%
+Final prediction for video #247: blasting_sand. Confidence: 66.60%
+Collection 62 - Video order: [248, 249, 250, 251]
+Labels: [279, 279, 279, 279]
+Final prediction for video #248: blowing_glass. Confidence: 77.74%
+Final prediction for video #249: recording_music. Confidence: 51.91%
+Final prediction for video #250: blowing_glass. Confidence: 73.33%
+Final prediction for video #251: milking_cow. Confidence: 40.53%
+Collection 63 - Video order: [252, 253, 254, 255]
+Labels: [279, 279, 279, 279]
+Final prediction for video #252: welding. Confidence: 34.70%
+Final prediction for video #253: ice_fishing. Confidence: 64.99%
+Final prediction for video #254: peeling_apples. Confidence: 27.58%
+Final prediction for video #255: welding. Confidence: 68.21%
+Collection 64 - Video order: [256, 257, 258, 259]
+Labels: [279, 279, 279, 279]
+Final prediction for video #256: playing_didgeridoo. Confidence: 15.39%
+Final prediction for video #257: peeling_apples. Confidence: 25.75%
+Final prediction for video #258: welding. Confidence: 81.52%
+Final prediction for video #259: welding. Confidence: 59.30%
+Collection 65 - Video order: [260, 261, 262, 263]
+Labels: [279, 279, 279, 279]
+Final prediction for video #260: playing_paintball. Confidence: 70.90%
+Final prediction for video #261: recording_music. Confidence: 68.87%
+Final prediction for video #262: playing_paintball. Confidence: 71.12%
+Final prediction for video #263: recording_music. Confidence: 50.69%
+Collection 66 - Video order: [264, 265, 266, 267]
+Labels: [279, 279, 279, 279]
+Final prediction for video #264: hugging. Confidence: 54.02%
+Final prediction for video #265: ice_fishing. Confidence: 79.16%
+Final prediction for video #266: recording_music. Confidence: 69.32%
+Final prediction for video #267: welding. Confidence: 92.88%
+Collection 67 - Video order: [268, 269, 270, 271]
+Labels: [279, 279, 279, 279]
+Final prediction for video #268: archery. Confidence: 92.65%
+Final prediction for video #269: cooking_on_campfire. Confidence: 52.33%
+Final prediction for video #270: playing_paintball. Confidence: 74.09%
+Final prediction for video #271: playing_paintball. Confidence: 67.69%
+Collection 68 - Video order: [272, 273, 274, 275]
+Labels: [279, 279, 279, 279]
+Final prediction for video #272: presenting_weather_forecast. Confidence: 75.53%
+Final prediction for video #273: playing_paintball. Confidence: 85.49%
+Final prediction for video #274: recording_music. Confidence: 51.00%
+Final prediction for video #275: welding. Confidence: 53.60%
+Collection 69 - Video order: [276, 277, 278, 279]
+Labels: [279, 279, 279, 279]
+Final prediction for video #276: archery. Confidence: 83.29%
+Final prediction for video #277: playing_paintball. Confidence: 66.10%
+Final prediction for video #278: archery. Confidence: 62.41%
+Final prediction for video #279: ice_fishing. Confidence: 70.42%
+Collection 70 - Video order: [280, 281, 282, 283]
+Labels: [279, 279, 279, 279]
+Final prediction for video #280: milking_cow. Confidence: 23.28%
+Final prediction for video #281: blasting_sand. Confidence: 46.62%
+Final prediction for video #282: riding_camel. Confidence: 61.69%
+Final prediction for video #283: welding. Confidence: 96.03%
+Collection 71 - Video order: [284, 285, 286, 287]
+Labels: [279, 279, 279, 279]
+Final prediction for video #284: playing_paintball. Confidence: 89.92%
+Final prediction for video #285: blowing_glass. Confidence: 46.11%
+Final prediction for video #286: milking_cow. Confidence: 50.94%
+Final prediction for video #287: ice_fishing. Confidence: 50.57%
+Collection 72 - Video order: [288, 289, 290, 291]
+Labels: [279, 279, 279, 279]
+Final prediction for video #288: playing_accordion. Confidence: 48.53%
+Final prediction for video #289: welding. Confidence: 63.27%
+Final prediction for video #290: playing_paintball. Confidence: 96.88%
+Final prediction for video #291: playing_chess. Confidence: 64.01%
+Collection 73 - Video order: [292]
+Labels: [279]
+Final prediction for video #292: ice_fishing. Confidence: 70.79%
+INFO:root:[   21] train: 0.000% test: 3.491%
