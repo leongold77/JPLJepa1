@@ -1,0 +1,274 @@
+Collection 0 - Video order: [0, 1, 2, 3]
+Labels: [4, 2, 3, 3]
+Final prediction for video #0: Walking. Confidence: 95.02%
+Final prediction for video #1: Falling. Confidence: 100.00%
+Final prediction for video #2: Walking. Confidence: 100.00%
+Final prediction for video #3: Jumping. Confidence: 100.00%
+INFO:root:[    0] 50.000% (loss: 14.105) [mem: 7.00e+03]
+Collection 1 - Video order: [4, 5, 6, 7]
+Labels: [5, 3, 1, 5]
+Final prediction for video #4: Falling. Confidence: 100.00%
+Final prediction for video #5: Walking. Confidence: 100.00%
+Final prediction for video #6: Walking. Confidence: 100.00%
+Final prediction for video #7: Jumping. Confidence: 100.00%
+Collection 2 - Video order: [8, 9, 10, 11]
+Labels: [0, 2, 2, 0]
+Final prediction for video #8: Walking. Confidence: 99.07%
+Final prediction for video #9: Falling. Confidence: 100.00%
+Final prediction for video #10: Walking. Confidence: 99.90%
+Final prediction for video #11: Walking. Confidence: 98.05%
+Collection 3 - Video order: [12, 13, 14, 15]
+Labels: [4, 5, 0, 0]
+Final prediction for video #12: Jumping. Confidence: 100.00%
+Final prediction for video #13: Jumping. Confidence: 100.00%
+Final prediction for video #14: Jumping. Confidence: 83.38%
+Final prediction for video #15: Jumping. Confidence: 92.90%
+Collection 4 - Video order: [16, 17, 18, 19]
+Labels: [2, 5, 0, 5]
+Final prediction for video #16: Falling. Confidence: 100.00%
+Final prediction for video #17: Falling. Confidence: 100.00%
+Final prediction for video #18: Walking. Confidence: 99.91%
+Final prediction for video #19: Falling. Confidence: 100.00%
+Collection 5 - Video order: [20, 21, 22, 23]
+Labels: [5, 2, 4, 0]
+Final prediction for video #20: Falling. Confidence: 98.99%
+Final prediction for video #21: Falling. Confidence: 75.31%
+Final prediction for video #22: Walking. Confidence: 100.00%
+Final prediction for video #23: Walking. Confidence: 97.68%
+Collection 6 - Video order: [24, 25, 26, 27]
+Labels: [1, 5, 1, 4]
+Final prediction for video #24: Walking. Confidence: 100.00%
+Final prediction for video #25: Falling. Confidence: 99.98%
+Final prediction for video #26: Falling. Confidence: 100.00%
+Final prediction for video #27: Walking. Confidence: 98.43%
+Collection 7 - Video order: [28, 29, 30, 31]
+Labels: [0, 4, 3, 3]
+Final prediction for video #28: Walking. Confidence: 91.98%
+Final prediction for video #29: Jumping. Confidence: 96.23%
+Final prediction for video #30: Walking. Confidence: 99.54%
+Final prediction for video #31: Walking. Confidence: 100.00%
+Collection 8 - Video order: [32, 33, 34, 35]
+Labels: [1, 4, 5, 1]
+Final prediction for video #32: Walking. Confidence: 100.00%
+Final prediction for video #33: Jumping. Confidence: 99.59%
+Final prediction for video #34: Jumping. Confidence: 100.00%
+Final prediction for video #35: Walking. Confidence: 100.00%
+Collection 9 - Video order: [36, 37, 38, 39]
+Labels: [3, 0, 0, 0]
+Final prediction for video #36: Walking. Confidence: 100.00%
+Final prediction for video #37: Walking. Confidence: 99.99%
+Final prediction for video #38: Walking. Confidence: 86.07%
+Final prediction for video #39: Jumping. Confidence: 97.82%
+Collection 10 - Video order: [40, 41, 42, 43]
+Labels: [4, 3, 3, 3]
+Final prediction for video #40: Jumping. Confidence: 100.00%
+Final prediction for video #41: Walking. Confidence: 100.00%
+Final prediction for video #42: Walking. Confidence: 100.00%
+Final prediction for video #43: Walking. Confidence: 100.00%
+Collection 11 - Video order: [44, 45, 46, 47]
+Labels: [5, 4, 4, 4]
+Final prediction for video #44: Jumping. Confidence: 100.00%
+Final prediction for video #45: Falling. Confidence: 100.00%
+Final prediction for video #46: Jumping. Confidence: 100.00%
+Final prediction for video #47: Falling. Confidence: 100.00%
+Collection 12 - Video order: [48, 49, 50, 51]
+Labels: [4, 5, 1, 3]
+Final prediction for video #48: Jumping. Confidence: 58.11%
+Final prediction for video #49: Falling. Confidence: 100.00%
+Final prediction for video #50: Jumping. Confidence: 94.83%
+Final prediction for video #51: Walking. Confidence: 100.00%
+Collection 13 - Video order: [52, 53, 54, 55]
+Labels: [4, 1, 4, 5]
+Final prediction for video #52: Jumping. Confidence: 100.00%
+Final prediction for video #53: Jumping. Confidence: 100.00%
+Final prediction for video #54: Walking. Confidence: 96.91%
+Final prediction for video #55: Falling. Confidence: 100.00%
+Collection 14 - Video order: [56, 57, 58, 59]
+Labels: [2, 0, 2, 1]
+Final prediction for video #56: Falling. Confidence: 100.00%
+Final prediction for video #57: Walking. Confidence: 95.01%
+Final prediction for video #58: Falling. Confidence: 100.00%
+Final prediction for video #59: Walking. Confidence: 100.00%
+Collection 15 - Video order: [60, 61, 62, 63]
+Labels: [3, 5, 2, 2]
+Final prediction for video #60: Walking. Confidence: 100.00%
+Final prediction for video #61: Jumping. Confidence: 100.00%
+Final prediction for video #62: Falling. Confidence: 96.97%
+Final prediction for video #63: Falling. Confidence: 100.00%
+Collection 16 - Video order: [64, 65, 66, 67]
+Labels: [1, 0, 2, 3]
+Final prediction for video #64: Jumping. Confidence: 99.97%
+Final prediction for video #65: Walking. Confidence: 84.77%
+Final prediction for video #66: Falling. Confidence: 100.00%
+Final prediction for video #67: Walking. Confidence: 100.00%
+Collection 17 - Video order: [68, 69, 70, 71]
+Labels: [4, 3, 2, 1]
+Final prediction for video #68: Falling. Confidence: 99.57%
+Final prediction for video #69: Walking. Confidence: 100.00%
+Final prediction for video #70: Falling. Confidence: 100.00%
+Final prediction for video #71: Walking. Confidence: 100.00%
+Collection 18 - Video order: [72, 73, 74, 75]
+Labels: [1, 3, 1, 2]
+Final prediction for video #72: Walking. Confidence: 99.95%
+Final prediction for video #73: Walking. Confidence: 100.00%
+Final prediction for video #74: Walking. Confidence: 100.00%
+Final prediction for video #75: Jumping. Confidence: 99.71%
+Collection 19 - Video order: [76, 77, 78, 79]
+Labels: [1, 3, 0, 3]
+Final prediction for video #76: Walking. Confidence: 100.00%
+Final prediction for video #77: Walking. Confidence: 100.00%
+Final prediction for video #78: Walking. Confidence: 92.04%
+Final prediction for video #79: Walking. Confidence: 100.00%
+Collection 20 - Video order: [80, 81, 82, 83]
+Labels: [1, 0, 5, 4]
+Final prediction for video #80: Jumping. Confidence: 91.13%
+Final prediction for video #81: Jumping. Confidence: 99.97%
+Final prediction for video #82: Jumping. Confidence: 100.00%
+Final prediction for video #83: Falling. Confidence: 99.99%
+INFO:root:[   20] 37.302% (loss: 16.961) [mem: 9.35e+03]
+Collection 21 - Video order: [84, 85, 86, 87]
+Labels: [2, 1, 2, 2]
+Final prediction for video #84: Falling. Confidence: 100.00%
+Final prediction for video #85: Driving. Confidence: 64.85%
+Final prediction for video #86: Falling. Confidence: 100.00%
+Final prediction for video #87: Falling. Confidence: 100.00%
+Collection 22 - Video order: [88, 89, 90, 91]
+Labels: [1, 4, 3, 1]
+Final prediction for video #88: Walking. Confidence: 100.00%
+Final prediction for video #89: Jumping. Confidence: 100.00%
+Final prediction for video #90: Walking. Confidence: 100.00%
+Final prediction for video #91: Walking. Confidence: 100.00%
+Collection 23 - Video order: [92, 93, 94, 95]
+Labels: [3, 3, 2, 5]
+Final prediction for video #92: Jumping. Confidence: 100.00%
+Final prediction for video #93: Jumping. Confidence: 99.99%
+Final prediction for video #94: Falling. Confidence: 100.00%
+Final prediction for video #95: Falling. Confidence: 100.00%
+Collection 24 - Video order: [96, 97, 98, 99]
+Labels: [2, 1, 0, 3]
+Final prediction for video #96: Falling. Confidence: 100.00%
+Final prediction for video #97: Jumping. Confidence: 100.00%
+Final prediction for video #98: Falling. Confidence: 100.00%
+Final prediction for video #99: Jumping. Confidence: 100.00%
+Collection 25 - Video order: [100, 101, 102, 103]
+Labels: [0, 5, 2, 4]
+Final prediction for video #100: Walking. Confidence: 73.41%
+Final prediction for video #101: Jumping. Confidence: 100.00%
+Final prediction for video #102: Falling. Confidence: 100.00%
+Final prediction for video #103: Jumping. Confidence: 100.00%
+Collection 26 - Video order: [104, 105, 106, 107]
+Labels: [2, 2, 2, 0]
+Final prediction for video #104: Falling. Confidence: 100.00%
+Final prediction for video #105: Walking. Confidence: 99.97%
+Final prediction for video #106: Falling. Confidence: 100.00%
+Final prediction for video #107: Walking. Confidence: 98.07%
+Collection 27 - Video order: [108, 109, 110, 111]
+Labels: [4, 5, 0, 3]
+Final prediction for video #108: Jumping. Confidence: 100.00%
+Final prediction for video #109: Falling. Confidence: 100.00%
+Final prediction for video #110: Jumping. Confidence: 99.89%
+Final prediction for video #111: Walking. Confidence: 100.00%
+Collection 28 - Video order: [112, 113, 114, 115]
+Labels: [2, 1, 0, 1]
+Final prediction for video #112: Falling. Confidence: 100.00%
+Final prediction for video #113: Walking. Confidence: 100.00%
+Final prediction for video #114: Walking. Confidence: 99.97%
+Final prediction for video #115: Walking. Confidence: 100.00%
+Collection 29 - Video order: [116, 117, 118, 119]
+Labels: [5, 1, 1, 4]
+Final prediction for video #116: Walking. Confidence: 78.44%
+Final prediction for video #117: Jumping. Confidence: 94.83%
+Final prediction for video #118: Walking. Confidence: 100.00%
+Final prediction for video #119: Falling. Confidence: 100.00%
+Collection 30 - Video order: [120, 121, 122, 123]
+Labels: [2, 2, 0, 5]
+Final prediction for video #120: Falling. Confidence: 84.66%
+Final prediction for video #121: Falling. Confidence: 100.00%
+Final prediction for video #122: Jumping. Confidence: 99.98%
+Final prediction for video #123: Falling. Confidence: 100.00%
+Collection 31 - Video order: [124, 125, 126, 127]
+Labels: [0, 2, 3, 0]
+Final prediction for video #124: Jumping. Confidence: 100.00%
+Final prediction for video #125: Jumping. Confidence: 99.96%
+Final prediction for video #126: Walking. Confidence: 99.97%
+Final prediction for video #127: Walking. Confidence: 96.90%
+Collection 32 - Video order: [128, 129, 130, 131]
+Labels: [4, 1, 4, 0]
+Final prediction for video #128: Jumping. Confidence: 99.71%
+Final prediction for video #129: Falling. Confidence: 95.42%
+Final prediction for video #130: Jumping. Confidence: 97.01%
+Final prediction for video #131: Walking. Confidence: 94.43%
+Collection 33 - Video order: [132, 133, 134, 135]
+Labels: [2, 4, 2, 2]
+Final prediction for video #132: Falling. Confidence: 99.83%
+Final prediction for video #133: Walking. Confidence: 99.45%
+Final prediction for video #134: Falling. Confidence: 100.00%
+Final prediction for video #135: Falling. Confidence: 100.00%
+Collection 34 - Video order: [136, 137, 138, 139]
+Labels: [5, 0, 1, 1]
+Final prediction for video #136: Jumping. Confidence: 100.00%
+Final prediction for video #137: Walking. Confidence: 99.71%
+Final prediction for video #138: Walking. Confidence: 100.00%
+Final prediction for video #139: Walking. Confidence: 100.00%
+Collection 35 - Video order: [140, 141, 142, 143]
+Labels: [5, 4, 0, 1]
+Final prediction for video #140: Jumping. Confidence: 100.00%
+Final prediction for video #141: Falling. Confidence: 99.76%
+Final prediction for video #142: Walking. Confidence: 97.37%
+Final prediction for video #143: Falling. Confidence: 100.00%
+Collection 36 - Video order: [144, 145, 146, 147]
+Labels: [3, 5, 1, 2]
+Final prediction for video #144: Walking. Confidence: 100.00%
+Final prediction for video #145: Falling. Confidence: 100.00%
+Final prediction for video #146: Walking. Confidence: 100.00%
+Final prediction for video #147: Falling. Confidence: 100.00%
+Collection 37 - Video order: [148, 149, 150, 151]
+Labels: [4, 4, 2, 5]
+Final prediction for video #148: Jumping. Confidence: 100.00%
+Final prediction for video #149: Jumping. Confidence: 100.00%
+Final prediction for video #150: Jumping. Confidence: 100.00%
+Final prediction for video #151: Falling. Confidence: 100.00%
+Collection 38 - Video order: [152, 153, 154, 155]
+Labels: [3, 0, 4, 0]
+Final prediction for video #152: Walking. Confidence: 100.00%
+Final prediction for video #153: Jumping. Confidence: 99.75%
+Final prediction for video #154: Jumping. Confidence: 100.00%
+Final prediction for video #155: Walking. Confidence: 100.00%
+Collection 39 - Video order: [156, 157, 158, 159]
+Labels: [5, 3, 3, 5]
+Final prediction for video #156: Jumping. Confidence: 100.00%
+Final prediction for video #157: Walking. Confidence: 100.00%
+Final prediction for video #158: Walking. Confidence: 100.00%
+Final prediction for video #159: Falling. Confidence: 100.00%
+Collection 40 - Video order: [160, 161, 162, 163]
+Labels: [3, 4, 5, 1]
+Final prediction for video #160: Walking. Confidence: 100.00%
+Final prediction for video #161: Jumping. Confidence: 100.00%
+Final prediction for video #162: Walking. Confidence: 94.91%
+Final prediction for video #163: Jumping. Confidence: 100.00%
+INFO:root:[   40] 35.366% (loss: 15.719) [mem: 9.35e+03]
+Collection 41 - Video order: [164, 165, 166, 167]
+Labels: [5, 4, 0, 1]
+Final prediction for video #164: Jumping. Confidence: 100.00%
+Final prediction for video #165: Walking. Confidence: 100.00%
+Final prediction for video #166: Walking. Confidence: 99.23%
+Final prediction for video #167: Jumping. Confidence: 100.00%
+Collection 42 - Video order: [168, 169, 170, 171]
+Labels: [5, 0, 5, 3]
+Final prediction for video #168: Jumping. Confidence: 99.97%
+Final prediction for video #169: Walking. Confidence: 97.41%
+Final prediction for video #170: Falling. Confidence: 100.00%
+Final prediction for video #171: Walking. Confidence: 88.65%
+Collection 43 - Video order: [172, 173, 174, 175]
+Labels: [1, 0, 5, 3]
+Final prediction for video #172: Walking. Confidence: 100.00%
+Final prediction for video #173: Jumping. Confidence: 99.99%
+Final prediction for video #174: Falling. Confidence: 100.00%
+Final prediction for video #175: Walking. Confidence: 100.00%
+Collection 44 - Video order: [176, 177, 178, 179]
+Labels: [3, 4, 5, 4]
+Final prediction for video #176: Walking. Confidence: 100.00%
+Final prediction for video #177: Jumping. Confidence: 100.00%
+Final prediction for video #178: Jumping. Confidence: 100.00%
+Final prediction for video #179: Falling. Confidence: 100.00%
+INFO:root:[   48] train: 92.464% test: 35.556%
