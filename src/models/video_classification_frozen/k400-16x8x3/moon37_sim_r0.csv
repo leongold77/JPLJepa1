@@ -1,0 +1,10 @@
+epoch,loss,acc
+1,84.44924,60.55556
+2,97.84017,62.22222
+epoch,loss,acc
+3,100.00000,64.49772
+epoch,loss,acc
+epoch,loss,acc
+4,100.00000,64.84018
+epoch,loss,acc
+5,100.00000,83.53175
