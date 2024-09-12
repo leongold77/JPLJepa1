@@ -1,0 +1,80 @@
+nodes: 8
+tasks_per_node: 8
+tag: k400-16x8x3
+eval_name: video_classification_frozen
+resume_checkpoint: true
+data:
+  dataset_train: csvs/filtered_data/mega_filtered.csv  #csvs/EarthData1/merged4.csv # #csvs/moon32/walking.csv # # csvs/EarthData1/merged3.csv # # #   #c #csvs/filtered_data/mega_filtered.csv #csvs/EarthData1/merged2.csv #csvs/filtered_data/mega_filtered.csv  #csvs/ApolloData/remainder_videos.csv  ##/home/leon-gold/jepa/csvs/0simforsim/90vpc.csv #   #csvs/EarthData1/merged.csv  # csvs/EarthData1/remainder_videos.csv #  #csvs/mega_filtered_data/megafilteredusable.csv #csvs/filtered_data/mega_filtered.csv  #csvs/moon22/moon222.csv #csvs/filtered_data/mega_filtered.csv  #csvs/moon32/moon32_3.csv  ## #  # ## ##csvs/moon32/moon32.csv # #csvs/moon22/moon22.csv ## csvs/moon26/moon26.csv # #csvs/moon22/moon22.csv   #$ #/home/leon-gold/jepa/csvs/moon22/moon22.csv  ##  #/home/leon-gold/jepa/csvs/moon13/moon13.csv  #csvs/filtered_data/mega_filtered.csv  # #csvs/filtered_data/mega_filtered.csv # /home/leon-gold/jepa/csvs/moon13/moon13.csv  #/home/leon-gold/jepa/csvs/moon8/moon8.csv ## #  #csvs/moon3/first_50_videos.csv # #csvs/moon3/first_50_videos.csv #csvs/filtered_data/mega_filtered.csv # # #csvs/moon3/first_50_videos.csv  #csvs/filtered_data/mega_filtered.csv ##csvs/moon3/first_50_videos.csv #csvs/filtered_data/mega_filtered.csv  #csvs/TrialMoonwalk2/first_50_videos.csv  ###csvs/filtered_data/mega_filtered.csv #csvs/Sim_CSVS/trainsimple.csv # #h ##/home/leon-gold/jepa/csvs/Sim_CSVS/trainsimple.csv #csvs/Sim_CSVS/train2.csv #  #csvs/filtered_data/mega_filtered.csv
+  dataset_val: csvs/ApolloData/remainder_videos.csv  #csvs/moon32/moon32test.csv  #csvs/ApolloData/apollo4.csv #csvs/moon13/moon13val.csv #csvs/moon22/moon22test.csv ## ##csvs/moon22/moon22test.csv #csvs/ApolloData/remainder_videos.csv #   # ##  #csvs/ApolloData/remainder_videos.csv  ## #csvs/ApolloData/apollokinetics.csv #csvs/moon22/moon22test.csv  #csvs/moon32/apollotest.csv #csvs/moon32/7classval.csv #csvs/ApolloData/remainder_videos.csv  #/home/leon-gold/jepa/csvs/0simforsim/90vpctest.csv #csvs/moon22/moon22test.csv  # #csvs/moon32/moon32test.csv #csvs/moon22/moon22test.csv #  # #csvs/moon22/moon22test.csv # csvs/ApolloData/remainder_videos.csv  #csvs/moon32/moon32test.csv #csvs/moon22/moon22test2.csv  ##csvs/moon22/moon22val.csv # #csvs/moon22/moon22test.csv #  #csvs/moon32/moon32test.csv  # # # # #  # #   #csvs/ApolloData/remainder_videos.csv  # #csvs/moon22/moon22test.csv # #  # # #  #  ##csvs/moon22/moon22val.csv  # ##csvs/moon26/moon26val.csv #csvs/moon22/moon22test.csv  #csvs/moon22/moon22val.csv  ##csvs/moon22/moon22val.csv  #csvs/moon22/moon22test.csv # ##csvs/moon3/test.csv # #csvs/moon13/moon13val.csv # #   #  #csvs/moon3/test.csv # #csvs/moon13/moon13val.csv #/home/leon-gold/jepa/csvs/moon16/first_50_videos.csv # #csvs/moon3/test.csv  #csvs/TrialMoonwalk/remainder_videos.csv   #csvs/moon13/moon13val.csv # # # #csvs/TrialMoonwalk/remainder_videos.csv  #csvs/moon3/remainder_videos.csv ###  ## # # #csvs/moon3/remainder_videos.csv  #/home/leon-gold/jepa/csvs/TrialMoonwalk/part5.csv #csvs/TrialMoonwalk/remainder_videos.csv # #/home/leon-gold/jepa/csvs/moon3/test.csv #  #/home/leon-gold/jepa/csvs/moon3/test.csv #  #/home/leon-gold/jepa/csvs/moon3/test.csv #/home/leon-gold/jepa/csvs/moon3/remainder_videos.csv #csvs/TrialMoonwalk2/test.csv #csvs/TrialMoonwalk/first_50_videos.csv  #csvs/TrialMoonwalk2/remainder_videos.csv #csvs/TrialMoonwalk/first_50_videos.csv #csvs/TrialMoonwalk2/remainder_videos.csv #/home/leon-gold/jepa/csvs/Sim_CSVS/testsimple.csv #csvs/TrialMoonwalk/first_50_videos.csv #csvs/Sim_CSVS/evalsimple.csv #csvs/TrialMoonwalk/first_50_videos.csv #csvs/Sim_CSVs/Apollo17/first_50_videos.csv # #/home/leon-gold/jepa/csvs/Sim_CSVS/evalsimple.csv # ##
+  dataset_type: VideoDataset
+  num_classes: 6
+  frames_per_clip: 16
+  num_segments: 8
+  num_views_per_segment: 3
+  frame_step: 4
+optimization:
+  attend_across_segments: true
+  num_epochs: 86
+  resolution: 224
+  batch_size: 4
+  weight_decay: 0.01
+  lr: 0.001
+  start_lr: 0.001
+  final_lr: 0.0
+  warmup: 0.
+  use_bfloat16: true
+pretrain:
+  model_name: vit_large
+  checkpoint_key: target_encoder
+  clip_duration: null
+  frames_per_clip: 16
+  tubelet_size: 2
+  uniform_power: true
+  use_silu: false
+  tight_silu: false
+  use_sdpa: true
+  patch_size: 16
+  folder:  /home/leon-gold/jepa/src/models
+  checkpoint: vitl16.pth.tar # name of pretrained model file inside folder
+  write_tag: merged4
+  frame_step: 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
